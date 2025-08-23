@@ -12,26 +12,19 @@ const About = () => {
 
       <div className="space-y-8 text-lg leading-loose">
         <p className="text-2xl font-serif font-light leading-relaxed text-stone">
-          I'm someone who thinks deeply about the tools we build and the world they shape.
+          I'm trying to figure out how to build things that matter.
         </p>
 
         <p>
-          My background spans technology, design, and the messy intersection between 
-          human behavior and digital systems. I'm particularly interested in how 
-          constraints shape creativity, how platforms influence thought, and why 
-          some ideas stick while others fade.
+          I study math and computer science at UCSD and spend a decent chunk of my time making stuff, currently 9-5 at 
+          at TikTok and sometimes on my own. Right now, I'm chasing a hunch that small, boring 
+          problems (like scheduling, paperwork, and admin in small clinics) are worth solving 
+          with the right tools. I've been trying to find a problem worth solving and I think this is something worth considering. at least in the short run.
         </p>
 
         <p>
-          This space serves as an external hard drive for those thoughts — some 
-          fully formed, others still evolving. I write to think, not to convince, 
-          though I hope the process is useful to others navigating similar questions.
-        </p>
-
-        <p>
-          When not writing, you'll find me reading (predominantly non-fiction), 
-          building small experiments, or in long conversations about ideas that 
-          probably matter less than we think they do.
+          This site isn't a portfolio. It's where I dump what I'm learning: cold calls that 
+          flop, features that ship, and thoughts that stick (or don't).
         </p>
       </div>
 

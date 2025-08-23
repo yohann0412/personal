@@ -18,10 +18,7 @@ const Reflections = () => {
           Daily Reflections
         </h1>
         <p className="text-stone text-lg leading-relaxed">
-          These are daily reflections. I write them at the end of the day to genuinely 
-          reflect and see what I could've done better. I am trying to live a more 
-          data driven life (obviously live life as is, but you need some element of 
-          information to figure out what you can do better).
+        Unedited logs from building / calling / shipping / lifting / training. More useful to me than to you tbh
         </p>
       </div>
 
